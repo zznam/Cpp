@@ -1,1 +1,8 @@
 **/*.out
+*.out
+*.out.dSYM
+*.dSYM
+*.exe
+**/*.exe
+.vscode/
+.DS_Store
