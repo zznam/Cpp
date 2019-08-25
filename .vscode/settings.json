@@ -13,6 +13,9 @@
         "iostream": "cpp",
         "iomanip": "cpp",
         "fstream": "cpp",
-        "istream": "cpp"
-    }
+        "istream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
